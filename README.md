@@ -7,7 +7,7 @@
 </p>
 
 ## 😄 About Me
-<h4>My name is Hudson Teixeira and i'm an undergraduate in Environmental engineering, from UNESP - Brazil. Since i was a kid, programming interested me, so i'have been following this passion until nowadays. I'm used to create virtual events using the babylonJS Framework, i'm able to program an 3d workspace, to attend client events, and alson devolpe the front-ends, recenty i'm learning backendtools, using technologies like node.js, express, prisma, mysql and others. My main goal here is to bring together all the things that I like in one, like French, programming and engineering.</h4>
+<h4>My name is Hudson Teixeira and i'm an undergraduate in Environmental engineering, from UNESP - Brazil. Since i was a kid, programming interested me, so i'have been following this passion until nowadays. I'm used to create virtual events using the babylonJS Framework, i'm able to program an 3d workspace, to attend client events, and alson devolpe the front-ends, recently i've been learning backend tools, using technologies like node.js, express, prisma, mysql and others. My main goal here is to bring together all the things that I like in one, like French, programming and engineering.</h4>
 ---
 
 ## 📲 Find Me
